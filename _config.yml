@@ -63,7 +63,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: phantom
+theme: magnetic
 
 nofollow:
   enable: true
@@ -94,6 +94,8 @@ beautify:
     'indent_with_tabs': false
     # More Options (https://github.com/beautify-web/js-beautify/blob/master/README.md)
 
+alias:
+  resume/index.html: https://wjr.us/resume
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
